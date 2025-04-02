@@ -1,0 +1,10 @@
+{
+    "domain": "wallpanel_control",
+    "name": "WallPanel Control",
+    "documentation": "https://github.com/AlessandroTischer/HA-WallPanelControl",
+    "dependencies": [],
+    "codeowners": ["@AlessandroTischer"],
+    "requirements": [],
+    "config_flow": true,
+    "version": "1.0.0"
+}  
