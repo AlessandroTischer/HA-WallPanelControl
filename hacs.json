@@ -1,0 +1,5 @@
+{
+  "name": "WallPanel Control",
+  "domains": ["wallpanel_control"],
+  "render_readme": true
+}
